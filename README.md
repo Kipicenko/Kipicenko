@@ -1,5 +1,7 @@
 ![bottom-wave](./images/top.svg)
 
+<img align='right' src="https://media.tenor.com/492-Kwhg88sAAAAi/menhera-chan.gif" width="140" />
+
 ### Frontend developer
 
 💻 Опыт работы: 1 год
