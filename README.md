@@ -28,8 +28,8 @@
 
 
 ### Мои контакты: 🙆‍♀️
-[![Telegram](https://img.shields.io/badge/-Telegram-032232?logo=telegram&logoColor=27A0D9)](https://t.me/alexeykipicenko)
-[![Vkontakte](https://img.shields.io/badge/-Vkontakte-032232?logo=Vk&logoColor=4F7DB3)](https://vk.com/anovy20)
+[![Telegram](https://img.shields.io/badge/Telegram-4680C2.svg?logo=telegram)](https://t.me/alexeykipicenko)
+[![Vkontakte](https://img.shields.io/badge/-Vk-0077FF?logo=Vk&logoColor=ffffff)](https://vk.com/anovy20)
 ![Discord](https://dcbadge.vercel.app/api/shield/399120685789741056?style=flat)
 
 
