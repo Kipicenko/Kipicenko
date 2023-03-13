@@ -1,8 +1,8 @@
 ![bottom-wave](./images/top.svg)
 
-<img align='right' src="https://media.tenor.com/492-Kwhg88sAAAAi/menhera-chan.gif" width="140" />
+<img align='right' src="https://media.tenor.com/492-Kwhg88sAAAAi/menhera-chan.gif" width="160" />
 
-### Frontend developer
+### `Frontend developer`
 
 💻 Опыт работы: 1 год
 
@@ -34,6 +34,6 @@
 
 
 ###
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKipicenko&count_bg=%239966CC&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKipicenko&count_bg=%239966CC&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+views&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ![bottom-wave](./images/bottom.svg)
