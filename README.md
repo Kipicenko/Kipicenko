@@ -2,7 +2,7 @@
 
 <img align='right' src="https://media.tenor.com/492-Kwhg88sAAAAi/menhera-chan.gif" width="160" />
 
-### `Frontend developer`
+# `Frontend developer`
 
 💻 Опыт работы: 1 год
 
