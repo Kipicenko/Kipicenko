@@ -1,4 +1,4 @@
-![bottom-wave](./images/test.svg)
+![bottom-wave](./images/top.svg)
 
 ### Frontend developer
 
