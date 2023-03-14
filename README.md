@@ -2,9 +2,9 @@
 
 <img align='right' src="https://media.tenor.com/492-Kwhg88sAAAAi/menhera-chan.gif" width="160" />
 
-# `Frontend developer`
+# `Frontend developer` <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-💻 Опыт работы: 1 год
+<p>🔗 Опыт работы: 1 год</p>
 
 
 ### Мой стек: 👾💜
