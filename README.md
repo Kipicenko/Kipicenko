@@ -30,7 +30,7 @@
 ### Мои контакты: 🙆‍♀️
 [![Telegram](https://img.shields.io/badge/Telegram-4680C2.svg?logo=telegram)](https://t.me/alexeykipicenko)
 [![Vkontakte](https://img.shields.io/badge/-Vk-0077FF?logo=Vk&logoColor=ffffff)](https://vk.com/anovy20)
-![Discord](https://dcbadge.vercel.app/api/shield/399120685789741056?style=flat)
+![](https://dcbadge.vercel.app/api/shield/399120685789741056?style=flat)
 
 
 ###
