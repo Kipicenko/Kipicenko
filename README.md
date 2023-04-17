@@ -4,7 +4,7 @@
 
 # `Frontend developer` <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-<p>🔗 Опыт работы: 1 год</p>
+<p>🔗 Опыт работы: 2 годa</p>
 
 
 ### Мой стек: 👾💜
