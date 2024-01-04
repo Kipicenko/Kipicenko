@@ -3,8 +3,21 @@
           fill="url(#gradient)"/>
     <defs>
         <linearGradient id="gradient" x1="0%" y1="50%" x2="100%" y2="50%">
-            <stop offset="5%" stop-color="#9966cc"></stop>
-            <stop offset="95%" stop-color="#423189"></stop>
+            <stop offset="0" stop-color="#cdb891" />
+
+            <stop offset="0.14285714285714285" stop-color="#b7a37f" />
+
+            <stop offset="0.2857142857142857" stop-color="#a28e6d" />
+
+            <stop offset="0.42857142857142855" stop-color="#8d7a5c" />
+
+            <stop offset="0.5714285714285714" stop-color="#79664b" />
+
+            <stop offset="0.7142857142857142" stop-color="#65533b" />
+
+            <stop offset="0.8571428571428571" stop-color="#52412c" />
+
+            <stop offset="1" stop-color="#3f301d" />
         </linearGradient>
     </defs>
 </svg>
