@@ -1,4 +1,4 @@
-## \<h1\> Yo <img src="images/Waving Hand Medium-Light Skin Tone.png" width="26px" alt="Waving Hand Medium-Light Skin Tone" />, I'm Alexey, Frontend Dev and GoLang Dev \</h1\>
+## \<h1\> Yo <img src="images/Waving Hand Medium-Light Skin Tone.png" width="26px" alt="Waving Hand Medium-Light Skin Tone" />, I'm Aleksei, Frontend Dev and GoLang Dev \</h1\>
 <br/>
 
 ```javascript
